@@ -437,7 +437,7 @@ loadCountrySelectList = async () => {
   renderCountrySelectList(countries_list);
 };
 
-// country filter
+// country filterr
 
 initCountryFilter = () => {
   let input = document.querySelector("#country-select-list input");
